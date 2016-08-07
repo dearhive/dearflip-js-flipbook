@@ -1,4 +1,4 @@
-# 3D Flipbook Plugin
+# [3D Flipbook Plugin](http://flipbookplugin.com/)
 Create awesome FlipBook from PDF or images in 3D or Classic Style.
 
 This is a non-commercial Lite Version. You are free to use for only personal non-profit use, not otherwise.
