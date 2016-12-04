@@ -16,7 +16,7 @@ For commercial versions follow the links below:
 
 [WordPress Flipbook Plugin](https://codecanyon.net/item/dflip-flipbook-wordpress-plugin/16408847)
 
-<a href="https://codecanyon.net/item/dflip-flipbook-wordpress-plugin/16408847">
+<a href="https://codecanyon.net/item/dflip-flipbook-wordpress-plugin/16408847?ref=deip">
 <img src="https://0.s3.envato.com/files/195589084/preview-wp-1.1b.jpg" alt="PDF Flipbook plugin">
 </a>
 
