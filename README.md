@@ -1,4 +1,4 @@
-# [3D Flipbook Plugin](http://flipbookplugin.com/)
+# [PDF Flipbook Plugin](http://flipbookplugin.com/)
 Create awesome FlipBook from PDF or images in 3D or Classic Style.
 
 This is a non-commercial Lite Version. You are free to use for only personal non-profit use, not otherwise.
@@ -19,4 +19,5 @@ For commercial versions follow the links below:
 <a href="https://codecanyon.net/item/dflip-flipbook-wordpress-plugin/16408847?ref=deip">
 <img src="https://0.s3.envato.com/files/195589084/preview-wp-1.1b.jpg" alt="PDF Flipbook plugin">
 </a>
-
+[PDF Flipbook](https://codecanyon.net/item/dflip-flipbook-jquery-plugin/15834127)
+[PDF to Flipbook](https://codecanyon.net/item/dflip-flipbook-wordpress-plugin/16408847)
