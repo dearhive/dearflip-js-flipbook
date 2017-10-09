@@ -1,4 +1,4 @@
-# [Wordpress Flipbook Plugin](http://flipbookplugin.com/)
+# [jQuery Flipbook Plugin](http://flipbookplugin.com/)
 Create awesome 3D FlipBook from PDF or images.
 
 For commercial versions follow the links below:
