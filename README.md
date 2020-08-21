@@ -1,10 +1,10 @@
-# [jQuery Flipbook Plugin](http://flipbookplugin.com/)
+# [jQuery Flipbook Plugin](https://dearflip.com/responsive-html5-flipbook-jquery-plugin/)
 Create awesome 3D FlipBook from PDF or images.
 
 For commercial versions follow the links below:
 
-[jQuery Flipbook](https://codecanyon.net/item/dflip-flipbook-jquery-plugin/15834127) or 
-[WordPress Flipbook](https://codecanyon.net/item/dflip-flipbook-wordpress-plugin/16408847)
+[jQuery Flipbook](https://dearflip.com/responsive-html5-flipbook-jquery-plugin/) or 
+[WordPress Flipbook](https://dearflip.com/realistic-3d-flipbook-wordpress-plugin/)
 
 This is a non-commercial Lite Version. You are free to use for only personal non-profit use, not otherwise.
 
