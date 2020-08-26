@@ -1,0 +1,33 @@
+{
+  "name": "@dearhive/dearflip-jquery-flipbook",
+  "version": "1.7.3",
+  "description": "DearFlip - Create realistic 3D FlipBook from PDF using jQuery.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dearhive/dearflip-jquery-flipbook.git"
+  },
+  "keywords": [
+    "3d",
+    "flipbook",
+    "pdf",
+    "flipbook",
+    "flipbook",
+    "jquery",
+    "flipbook",
+    "javascript",
+    "flipbook"
+  ],
+  "author": "dearhive",
+  "license": "CC BY-NC-ND 4.0",
+  "bugs": {
+    "url": "https://github.com/dearhive/dearflip-jquery-flipbook/issues"
+  },
+  "homepage": "https://github.com/dearhive/dearflip-jquery-flipbook#readme"
+}
