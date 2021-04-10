@@ -6,7 +6,7 @@ Create awesome 3D FlipBook from PDF or images using jQuery powered DearFlip plug
   
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-This is a non-commercial Lite Version. You are free to use for only personal non-profit use, not otherwise.
+This is a non-commercial Lite Version. You are free to use for only personal non-profit use, testing/trial not otherwise.
 
 
 For commercial versions follow the links below:
