@@ -19,5 +19,5 @@ For Desktop versions follow the links below:
 [PDF Viewer](https://chrome.google.com/webstore/detail/pdf-to-flipbook-viewer-df/bbbnbmpdkfkndckfmcndgabefnmdedfp) Extension or 
 [Flipbook](https://chrome.google.com/webstore/detail/pdf-flipbook-viewer-3d/ohckmemlgcohcakakmnpjchckcajpmdi) Chrome App
 
-For Wordpress Demo: Get dFlip: [3D Flipbook](https://wordpress.org/plugins/3d-flipbook-dflip-lite/) from Wordpress Repository
+For Wordpress Demo: Get DearFlip lite Wordpress : [3D Flipbook](https://wordpress.org/plugins/3d-flipbook-dflip-lite/) from Wordpress Repository
  
