@@ -1,4 +1,4 @@
-# [DearFlip jQuery Flipbook Plugin](https://dearflip.com/responsive-html5-flipbook-jquery-plugin/)
+# [DearFlip jQuery Flipbook Plugin](https://jquery.dearflip.com/)
 Create awesome 3D FlipBook from PDF or images using jQuery powered DearFlip plugin.
 
 
@@ -11,8 +11,8 @@ This is a non-commercial Lite Version. You are free to use for only personal non
 
 For commercial versions follow the links below:
 
-[jQuery Flipbook](https://dearflip.com/responsive-html5-flipbook-jquery-plugin/) or 
-[WordPress Flipbook](https://dearflip.com/realistic-3d-flipbook-wordpress-plugin/)
+[jQuery Flipbook](https://jquery.dearflip.com/) or 
+[WordPress Flipbook](https://dearflip.com/)
 
 For Desktop versions follow the links below:
 
