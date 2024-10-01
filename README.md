@@ -98,6 +98,6 @@ var option_button_image = {
 };
 ```
 
-More documentation at [DearFlip jQuery Flipbook Docs](https://jquery.dearflip.com/docs/)
+More documentation at [DearFlip Flipbook JS/jQuery Docs](https://js.dearflip.com/docs/)
 
 
