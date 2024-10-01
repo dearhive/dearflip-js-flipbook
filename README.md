@@ -1,5 +1,5 @@
-# [DearFlip jQuery Flipbook Plugin](https://jquery.dearflip.com/)
-Create realistic 3D FlipBook from PDF or images using jQuery powered DearFlip plugin. DearFlip creates PDF FLipbooks and Image Flipbook with 3D modes and 2D modes. This is jQuery port of [DearFlip FLipbook/PDF Viewer](https://dearflip.com/) solution.
+# [DearFlip jQuery/JS Flipbook Plugin](https://js.dearflip.com/)
+Create realistic 3D FlipBook from PDF or images using jQuery powered DearFlip plugin. DearFlip creates PDF FLipbooks and Image Flipbook with 3D modes and 2D modes. This is JS/jQuery port of [DearFlip FLipbook/PDF Viewer](https://dearflip.com/) solution.
 
 **Related Solutions:** jQuery flipbook, JS flipbook, PDF flipbook, JavaScript flipbook
 
@@ -10,7 +10,7 @@ Create realistic 3D FlipBook from PDF or images using jQuery powered DearFlip pl
 
 This is a non-commercial Lite Version. You are free to use for only personal non-profit use, testing/trial not otherwise.
 For commercial versions follow the links below:
-[jQuery Flipbook](https://jquery.dearflip.com/) or 
+[jQuery/JS Flipbook](https://js.dearflip.com/) or 
 [WordPress Flipbook](https://wordpress.dearflip.com/)
 
 For Desktop versions follow the links below:
