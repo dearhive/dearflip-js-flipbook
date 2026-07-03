@@ -1,6 +1,6 @@
 # Welcome to DearFlip Repository
 This repo is public for the purpose of:
-1. Lite(non-commercial) version of DearFlip js/jQuery Flipbook
+1. Lite(non-commercial) old version of DearFlip js/jQuery Flipbook v1.7  (commercial version is 2.x)
 2. Discussion for all the versions of DearFlip - Wordpress/js/Desktop/chrome extension/desktop edition
 
 Note: DearFlip is a front end javascript pdf viewer/flipbook solution and is also implemented in Wordpress/chrome/joomla for it's easy use in their respective environment.
